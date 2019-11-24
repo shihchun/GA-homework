@@ -1,1 +1,3 @@
-# upload the ga homework in MCUT
+# GA-homework
+
+upload the ga homework in MCUT
